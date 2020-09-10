@@ -19,7 +19,7 @@ git clone https://github.com/flexmonster/pivot-jquery
 cd pivot-jquery
 ```
 
-2. Open the `pivot-jquery/index.html` file in the browser to see the pivot table embedded into the webpage.
+2. Open the `pivot-jquery/index.html` file in the browser to see the result.
 
 ## Usage
 
