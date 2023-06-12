@@ -6,22 +6,23 @@ Website: www.flexmonster.com
 
 Flexmonster Pivot is a powerful JavaScript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources quickly and conveniently. Flexmonster is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
 
-This repository holds the source code for a simple [jQuery](https://jquery.com/) and Flexmonster Pivot Table & Charts project:
+This repository contains a sample [jQuery](https://jquery.com/) project for Flexmonster Pivot Table & Charts.
+
+Table of contents:
 
 - [Installation](#installation)
 - [Usage](#usage)
 
 ## Installation 
 
-1. Download the `.zip` archive with the sample project or clone it from GitHub with the following command:
+1. Download a `.zip` archive with the sample project or clone it from GitHub with the following command:
 
 ```bash
-git clone https://github.com/flexmonster/pivot-jquery
-cd pivot-jquery
+git clone https://github.com/flexmonster/pivot-jquery && cd pivot-jquery
 ```
 
-2. Open the `pivot-jquery/index.html` file in the browser to see the result.
+2. Open the `index.html` file in the browser to see the result.
 
 ## Usage
 
-For details on usage, see the [Flexmonster integration with jQuery](https://www.flexmonster.com/doc/integration-with-jquery/) guide.
+For details on usage, refer to the [Integration with jQuery](https://www.flexmonster.com/doc/integration-with-jquery/) guide.
