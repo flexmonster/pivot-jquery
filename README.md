@@ -11,7 +11,7 @@ This repository contains a sample [jQuery](https://jquery.com/) project for Flex
 Table of contents:
 
 - [Installation](#installation)
-- [Usage](#usage)
+- [Related Flexmonster docs](#related-flexmonster-docs)
 
 ## Installation 
 
@@ -23,6 +23,6 @@ git clone https://github.com/flexmonster/pivot-jquery
 
 2. Open the `pivot-jquery/index.html` file in the browser to see the result.
 
-## Usage
+## Related Flexmonster docs
 
-For details on usage, refer to the [Integration with jQuery](https://www.flexmonster.com/doc/integration-with-jquery/) guide.
+- [Integration with jQuery](https://www.flexmonster.com/doc/integration-with-jquery/) — learn how to integrate Flexmonster into a jQuery project.
