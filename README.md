@@ -1,6 +1,6 @@
 # Flexmonster Pivot Table &amp; Charts integration with jQuery
-[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://flexmonster.com)
-Website: www.flexmonster.com
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com?r=github)
+Website: [www.flexmonster.com](https://www.flexmonster.com?r=github)
 
 ## Flexmonster Pivot Table & Charts
 
@@ -25,4 +25,4 @@ git clone https://github.com/flexmonster/pivot-jquery
 
 ## Related Flexmonster docs
 
-- [Integration with jQuery](https://www.flexmonster.com/doc/integration-with-jquery/) — learn how to integrate Flexmonster into a jQuery project.
+- [Integration with jQuery](https://www.flexmonster.com/doc/integration-with-jquery?r=github) — learn how to integrate Flexmonster into a jQuery project.
