@@ -1,4 +1,4 @@
-# jQuery pivot table | Flexmonster Pivot Table & Charts sample project with jQuery
+# jQuery pivot grid | Flexmonster Pivot Table & Charts sample project with jQuery
 [![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com?r=sample_jqry)
 Website: [flexmonster.com](https://www.flexmonster.com?r=sample_jqry)
 
