@@ -1,5 +1,5 @@
 # jQuery pivot grid | Flexmonster Pivot Table & Charts sample project with jQuery
-[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com?r=sample_jqry)
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/readmes/jquery.webp)](https://www.flexmonster.com?r=sample_jqry)
 Website: [flexmonster.com](https://www.flexmonster.com?r=sample_jqry)
 
 [![Github Stars](https://img.shields.io/github/stars/flexmonster?style=social)](https://github.com/flexmonster) [![Twitter](https://img.shields.io/twitter/follow/Flexmonster?style=social)](https://twitter.com/Flexmonster)
